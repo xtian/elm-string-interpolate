@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "lukewestby/elm-string-interpolate",
+    "name": "xtian/elm-string-interpolate",
     "summary": "Inject values from a list into a template. Useful for i18n and templated copy.",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "String.Interpolate"
     ],
